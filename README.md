@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/cf70ed9b-1725-44bb-881a-86e1d4f1392c
+
 # Agente Educacional de IA para Conscientização sobre Fraudes
 
 ## Visão Geral
