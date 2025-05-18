@@ -36,7 +36,7 @@ O sistema pode gerar conteúdo sobre uma ampla gama de tópicos relacionados a f
 
 ## Público-Alvo
 
-O público-alvo principal é o público em geral, com um forte foco em tornar o conteúdo acessível e relevante para pessoas idosas, que muitas vezes são desproporcionalmente afetadas por fraudes.
+O público-alvo é o público em geral, com um forte foco em tornar o conteúdo acessível e relevante para pessoas idosas, que muitas vezes são desproporcionalmente afetadas por fraudes.
 
 ## Tecnologias Utilizadas
 
