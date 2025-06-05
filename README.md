@@ -59,3 +59,26 @@ O público-alvo é o público em geral, com um forte foco em tornar o conteúdo 
     * Execute o script principal: `python main.py` (ou o comando apropriado para executar seu código)
     * Siga as instruções para inserir o tópico de fraude desejado.
     * O sistema irá gerar o conteúdo educativo.
+
+Habilidades Adquiridas no Desenvolvimento do Projeto
+O projeto prático solidificou o aprendizado e permitiu o desenvolvimento de habilidades mais específicas e aplicadas:
+
+Engenharia e Orquestração de Agentes de IA: Capacidade de projetar, implementar e coordenar múltiplos agentes de IA (Buscador, Educador, Redator, Revisor), cada um com um papel definido em um fluxo de trabalho complexo. Isso demonstra a habilidade de quebrar um problema grande em tarefas menores e delegá-las a componentes inteligentes.
+
+Engenharia de Prompt (Prompt Engineering): Domínio na criação de instruções precisas e eficazes para os modelos de IA, direcionando seu comportamento e garantindo que as respostas sejam relevantes e alinhadas aos objetivos do projeto.
+
+Integração de Ferramentas e APIs: Experiência prática na integração de diferentes tecnologias, como a API do Google Gemini, a ferramenta de busca do Google (google_search), e bibliotecas de PLN como spaCy ou NLTK.
+
+Desenvolvimento de Interface Gráfica (GUI): Habilidade em construir uma interface de usuário funcional utilizando Tkinter, permitindo que usuários não técnicos interajam de forma intuitiva com o sistema de agentes. Isso envolve a criação de elementos visuais e a lógica de interação.
+
+Gerenciamento de Fluxos de Trabalho Automatizados: Criação de uma sequência lógica de operações, onde a saída de um agente serve como entrada para o próximo, resultando em um processo automatizado de geração de conteúdo.
+
+Tratamento de Dados e Formatação: Capacidade de manipular e formatar dados textuais para diferentes propósitos, seja para entrada em modelos de IA, para exibição na interface ou para otimização de busca.
+
+Resolução de Problemas e Depuração (Debugging): Demonstração da capacidade de identificar, analisar e corrigir erros comuns em desenvolvimento de IA (como ModuleNotFoundError, NameError, RuntimeError e RESOURCE_EXHAUSTED da API), e de adaptar o código para diferentes ambientes de execução.
+
+Aplicação Prática da IA para Impacto Social: Habilidade de aplicar conhecimentos de inteligência artificial para resolver um problema do mundo real com relevância social, como a conscientização sobre fraudes e a proteção de populações vulneráveis.
+
+Compreensão de Limitações da IA: Desenvolvimento de um entendimento prático sobre as limitações e desafios da IA em cenários reais, como a gestão de quotas de API, a necessidade de revisão humana e a confiabilidade das fontes de informação.
+
+Essas habilidades combinadas mostram um perfil profissional apto a trabalhar com projetos de IA, desde a concepção até a implementação e depuração, com um forte foco em aplicações práticas e com potencial de impacto.
